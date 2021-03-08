@@ -1,5 +1,6 @@
 # Mapping_Earthquakes
 Create a dynamic webpage about recent earthquakes around the world.
+[Go to this folder to view the files:](https://github.com/MonikaSData/Mapping_Earthquakes/tree/main/Earthquake_Challenge)
 
 ## Overview of Project
 **Purpose:**
