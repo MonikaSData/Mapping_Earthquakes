@@ -17,7 +17,7 @@ Using the Leaflet library to plot the data on a Mapbox map through an API reques
 
 
 ## Resources
-- Data Source: [Mapbox_data](www.mapbox.com); [Earthquake_data(last 7 days)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson); [Major_earthquake_data(last 7 days &magnitute > 4.5)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson); [Tectonic_plates](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json);
+- Data Source: [Mapbox_data](https://www.mapbox.com/); [Earthquake_data(last 7 days)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson); [Major_earthquake_data(last 7 days &magnitute > 4.5)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson); [Tectonic_plates](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json);
 - Source Code: 
     [challenge_logic.js](Earthquake_Challenge/static/js/challenge_logic.js); [style.css](Earthquake_Challenge/static/css/style.css); [index.html](Earthquake_Challenge/index.html)
   
